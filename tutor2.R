@@ -15,6 +15,7 @@ y
 #logical variable
 z<-TRUE
 z
+
 #missing variable
 notAvai<-NA
 notAvai
@@ -163,6 +164,7 @@ for(i in 2:10)
   s[i] = h[i] * 10
 }
 s
+
 
 
 
