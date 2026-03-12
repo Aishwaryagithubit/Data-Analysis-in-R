@@ -1,4 +1,4 @@
-?mean
+?mean     #help
 
 x <- 4
 y <- 6
@@ -42,4 +42,5 @@ starwars %>%
   arrange(mass) %>% 
   { plot(.$height_in_meters, .$mass) }
   #View()
+
 
