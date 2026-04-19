@@ -11,7 +11,7 @@ library(pROC)
 data(PimaIndiansDiabetes2, package = "mlbench")
 df <- PimaIndiansDiabetes2
 
-#Quick inspection
+# Quick the inspection 
 cat("Dataset structure:\n")
 str(df)
 
