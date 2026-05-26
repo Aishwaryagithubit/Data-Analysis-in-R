@@ -3,6 +3,7 @@ title: "Exploratory Data Analysis"
 author: "Student Name: Aishwarya Sah"
 date: "2026-05-01"
 
+#library 
 library(ggplot2)  
 # Load dataset
 data <- read.csv("C:/Users/ASUS/Desktop/RProgram/Frauddata.csv")
